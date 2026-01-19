@@ -73,3 +73,15 @@ input {
     padding: 8px;
     margin-top: 4px;
 }
+#form-message {
+    margin-top: 12px;
+    font-size: 14px;
+}
+
+#form-message.error {
+    color: red;
+}
+
+#form-message.success {
+    color: green;
+}
